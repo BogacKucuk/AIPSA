@@ -1,0 +1,10 @@
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\bin\Debug\AIPSAapp.exe.config
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\bin\Debug\AIPSAapp.exe
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\bin\Debug\AIPSAapp.pdb
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\obj\Debug\AIPSAapp.csprojAssemblyReference.cache
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\obj\Debug\AIPSAapp.Form1.resources
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\obj\Debug\AIPSAapp.Properties.Resources.resources
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\obj\Debug\AIPSAapp.csproj.GenerateResource.cache
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\obj\Debug\AIPSAapp.csproj.CoreCompileInputs.cache
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\obj\Debug\AIPSAapp.exe
+C:\Users\Bogac\Desktop\Project\bitirme\kod\AIPSAapp\obj\Debug\AIPSAapp.pdb
